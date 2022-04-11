@@ -14,12 +14,12 @@ author: Antoine GIRET
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Travaux: "/travaux"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Enquêtes: "/enquetes"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Qui nous sommes: "qui-nous-sommes"
+  Contact: ""
 
 # --- Logo --- #
 

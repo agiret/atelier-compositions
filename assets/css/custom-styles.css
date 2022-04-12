@@ -60,3 +60,13 @@ layout: null
 .nav-item {
   letter-spacing: 0rem !important;
 }
+
+/* Liste des étapes */
+/* .step-left .step-right {
+  padding-top: 2rem;
+} */
+
+.step-right {
+  position: relative;
+  left: -1px;
+}

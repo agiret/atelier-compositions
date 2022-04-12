@@ -24,6 +24,23 @@ layout: null
   margin: 0rem 0 0;
 }
 
+/* Body */
+body {
+  font-family: 'Open Sans',  'Helvetica Neue',  Helvetica,  Arial,  sans-serif;
+  /* font-family: 'Lora', 'Times New Roman', serif; */
+  font-size: 1.125rem;
+}
+
+.post-preview .post-meta,
+.post-heading .post-meta {
+  color: #808080;
+  font-size: 1.0rem;
+  font-style: italic;
+  margin: 0 0 0.625rem;
+  /* font-family: 'Lora', 'Times New Roman', serif; */
+  font-family: 'Open Sans',  'Helvetica Neue',  Helvetica,  Arial,  sans-serif;
+}
+
 /* Blocs */
 .bloc {
   padding-top: 2rem;

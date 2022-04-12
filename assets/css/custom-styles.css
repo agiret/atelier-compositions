@@ -24,10 +24,15 @@ layout: null
   margin: 0rem 0 0;
 }
 
+/* Blocs */
+.bloc {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 /* Blocs color */
 .bloc-color {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  /* background-color: #EAEAEA ; */
 }
 
 /* Boutons */
@@ -61,10 +66,18 @@ layout: null
   letter-spacing: 0rem !important;
 }
 
+/* Proposition de valeur */
+.intro-value {
+  /* margin-bottom: 6rem; */
+}
+
 /* Liste des étapes */
-/* .step-left .step-right {
-  padding-top: 2rem;
-} */
+.step-left, .step-right {
+  font-size: 1.0rem;
+  line-height: 1.2;
+  font-family: 'Open Sans',  'Helvetica Neue',  Helvetica,  Arial,  sans-serif;
+  font-weight: 300;
+}
 
 .step-right {
   position: relative;
